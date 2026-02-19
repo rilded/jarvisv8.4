@@ -4,4 +4,4 @@ pip install pyaudio
 
 pip install pyautogui SpeechRecognition vosk pyaudio pyttsx3 keyboard pyperclip pillow requests psutil numpy websockets asyncio pyperclip loky gtts pygame
 
-https://ru.files.me/u/5b7q9uke6c
+https://wdfiles.ru/3wBd7 https://wdfiles.ru/3wBd8
